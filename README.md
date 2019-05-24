@@ -1,2 +1,2 @@
-# wwwregret
-Wrestling With Wregret
+# indydarlings
+Indy Darlings
