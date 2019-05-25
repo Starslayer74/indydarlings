@@ -1,4 +1,17 @@
 
+
+name="All Elite Wrestling Buy-in Stream #2"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="gqAyq8bD9HU"
+icon="https://pbs.twimg.com/profile_images/1122129338088947712/jPTYNVsD_400x400.jpg"
+fanart="https://www.thesmackdownhotel.com/images/wrestling/events/aew/double-or-nothing.jpg"
+description="All Elite Wrestling Buy-in Stream #2"
+
+
 name="All Elite Wrestling"
 section="false"
 search="false"
