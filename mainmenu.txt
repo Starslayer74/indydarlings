@@ -76,7 +76,7 @@ icon="https://pbs.twimg.com/profile_images/1088542012301869058/A1GsS8CV_400x400.
 fanart="https://planoinformativo.com/stock12/image/2019/FEBRERO/03/triplea.jpg"
 description="Lucha Libre AAA
 
-name="ProWrestlingEVE"
+name="Pro Wrestling EVE"
 section="false"
 search="false"
 subid="false"
@@ -85,7 +85,7 @@ channelid="UCAvLhi3C_2JR-EFqtHGG3Zg"
 videoid="false"
 icon="https://pbs.twimg.com/profile_images/1136269276409729025/SmOCIOFi_400x400.jpg"
 fanart="https://upload.wikimedia.org/wikipedia/en/6/6b/PWEve.png"
-description="ProWrestlingEVE"
+description="Pro Wrestling EVE"
 
 name="Ohio Valley Wrestling"
 section="false"
