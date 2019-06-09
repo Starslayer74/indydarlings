@@ -76,17 +76,6 @@ icon="https://vignette.wikia.nocookie.net/prowrestling/images/8/83/ICW_-_Insane_
 fanart="https://vignette.wikia.nocookie.net/prowrestling/images/8/83/ICW_-_Insane_Championship_Wrestling_logo.png"
 description="Insane Championship Wrestling"
 
-name="MCW Pro Wrestling"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="UCPHMctj7gnb5zA5iuzUshAA"
-videoid="false"
-icon="https://en.wikipedia.org/wiki/MCW_Pro_Wrestling#/media/File:MCW_Pro_Wrestling.png"
-fanart="https://vignette.wikia.nocookie.net/prowrestling/images/c/c9/MCW_Heavyweight_Championship_%282017%29.jpg"
-description="MCW Pro Wrestling"
-
 name="MLW Fusion"
 section="false"
 search="false"
