@@ -84,7 +84,7 @@ playlistid="false"
 channelid="UCAvLhi3C_2JR-EFqtHGG3Zg"
 videoid="false"
 icon="https://pbs.twimg.com/profile_images/1136269276409729025/SmOCIOFi_400x400.jpg"
-fanart="https://upload.wikimedia.org/wikipedia/en/6/6b/PWEve.png"
+fanart="https://pbs.twimg.com/profile_images/1136269276409729025/SmOCIOFi_400x400.jpg"
 description="Pro Wrestling EVE"
 
 name="Ohio Valley Wrestling"
