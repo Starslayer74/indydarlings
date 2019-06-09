@@ -83,7 +83,7 @@ subid="false"
 playlistid="false"
 channelid="UCPHMctj7gnb5zA5iuzUshAA"
 videoid="false"
-icon="https://static.wixstatic.com/media/451f13_585680d6368647b0b6fe73656865de98.png/v1/fill/w_159,h_64,al_c,usm_0.66_1.00_0.01,blur_2/MCW%20Logo-Black.png"
+icon="https://en.wikipedia.org/wiki/MCW_Pro_Wrestling#/media/File:MCW_Pro_Wrestling.png"
 fanart="https://vignette.wikia.nocookie.net/prowrestling/images/c/c9/MCW_Heavyweight_Championship_%282017%29.jpg"
 description="MCW Pro Wrestling"
 
