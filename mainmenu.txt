@@ -7,7 +7,7 @@ playlistid="false"
 channelid="UCFN4JkGP_bVhAdBsoV9xftA"
 videoid="false"
 icon="https://pbs.twimg.com/profile_images/1122129338088947712/jPTYNVsD_400x400.jpg"
-fanart="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d49a473-f75d-4615-840a-8105824b8531/dd700ix-32380e7e-46a7-4aa4-afb6-4b06ca0e223e.png/v1/fill/w_1192,h_670,q_70,strp/aew_all_elite_wrestling_logo_by_majinkhan_dd700ix-pre.jpg"
+fanart="https://411mania.com/wp-content/uploads/2019/07/aewtntlogonew-645x370.jpg"
 description="All Elite Wrestling"
 
 name="Beyond Wrestling"
