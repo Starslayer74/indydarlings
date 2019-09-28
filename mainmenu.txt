@@ -53,7 +53,7 @@ videoid="false"
 icon="https://pbs.twimg.com/profile_images/1084706903899267072/VAavGpBo_400x400.jpg"
 fanart="http://3.bp.blogspot.com/-msAqTny4yz0/T9i2Hd24M9I/AAAAAAAAFJw/Eot9khcaJw4/s1600/cmll+logo.png"
 description="CMLL"
-
+ 
 name="Championship Wrestling from Arizona"
 section="false"
 search="false"
