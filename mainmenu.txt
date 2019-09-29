@@ -19,7 +19,7 @@ videoid="false"
 icon="https://pbs.twimg.com/profile_images/1122129338088947712/jPTYNVsD_400x400.jpg"
 fanart="https://411mania.com/wp-content/uploads/2019/07/aewtntlogonew-645x370.jpg"
 description="All Elite Wrestling"
-
+ 
 name="All Pro Wrestling"
 section="false"
 search="false"
