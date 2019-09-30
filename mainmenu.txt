@@ -358,7 +358,7 @@ playlistid="false"
 channelid="UCnoxa_lxzuctg5MvZPNvU4Q"
 videoid="false"
 icon="https://upload.wikimedia.org/wikipedia/en/a/a1/Lucha_Britannia_Trade_Mark.jpg"
-fanart="https://i.ytimg.com/vi/oKShrlDOr8Y/hqdefault.jpg"
+fanart="https://static.wixstatic.com/media/a3defa_e5bac871d48b4271beef3ecde8289f89~mv2.jpg/v1/fill/w_1962,h_709,al_c/a3defa_e5bac871d48b4271beef3ecde8289f89~mv2.jpg"
 description="Lucha Britannia"
 
 name="Lucha Libre AAA"
