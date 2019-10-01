@@ -394,6 +394,17 @@ icon="https://pbs.twimg.com/profile_images/944920721586774017/iztwMSnD_400x400.j
 fanart="https://cdn.abcotvs.com/dip/images/5116299_020119mlw.png"
 description="MLW Fusion"
 
+name="National Wrestling Alliance"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="UCSHCTJS2P4Hvu_reLKtiT6g"
+videoid="false"
+icon="https://upload.wikimedia.org/wikipedia/en/5/55/National_Wrestling_Alliance_logo.png"
+fanart="https://tjrwrestling.net/wp-content/uploads/2019/09/nwa-power-logo-e1569865559487.png"
+description="National Wrestling Alliance"
+
 name="National Wrestling League"
 section="false"
 search="false"
