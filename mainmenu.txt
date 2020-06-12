@@ -251,6 +251,17 @@ icon="https://pbs.twimg.com/profile_images/427565856105582592/ErZs80___400x400.j
 fanart="https://www.ewrestlingnews.com/wp-content/uploads/2019/07/EVOLVE-Wrestling-eWrestlingNews-1280x720.jpg"
 description="Evolve Wrestling"
 
+name="Extreme Midget Wrestling"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="UCam12k6HODPnNvijnu7kTIw"
+videoid="false"
+icon="https://extrememidgetwrestling.com/wp-content/uploads/extreme-midget-wrestling.png"
+fanart="https://extrememidgetwrestling.com/wp-content/uploads/extreme-midget-wrestling-show.jpg"
+description="Extreme Midget Wrestling"
+
 name="Freelance Wrestling"
 section="false"
 search="false"
