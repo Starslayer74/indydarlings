@@ -1,3 +1,15 @@
+name="IMPACT! Wrestling"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="UCOp8wkVqdrWbFYHjDv946QQ"
+videoid="false"
+icon="https://prowrestling247.net/wp-content/uploads/2020/02/Impact.png"
+fanart="https://1.bp.blogspot.com/-L2l5P5oq978/XfzOt_yKmVI/AAAAAAAAH_8/wB7Qkou8xLwIpUigaD7ViQzjq8LYWLdjwCLcBGAsYHQ/s1600/3.png"
+description="IMPACT! Wrestling"
+
+
 name="New Japan Pro Wrestling"
 section="false"
 search="false"
